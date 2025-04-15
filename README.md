@@ -4,6 +4,8 @@
 
 👉 [Click here to view the main notebook](./Simulation.ipynb)
 
+Or view it directly in a nicer format on [nbviewer](https://nbviewer.org/github/jaredR312/OS_project/blob/main/Simulation.ipynb)
+
 ## Team members
 
 Jared Roderick (R11762851)  
